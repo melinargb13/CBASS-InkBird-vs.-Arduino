@@ -28,8 +28,3 @@ anova(Fv_FmANOVA2)
 
 twoANOVA <-aov(PAM~Treatment * factor(Temperature), data=input)
 summary(twoANOVA)
-
-################
-##T-test ED50s##
-################
-
