@@ -1,0 +1,9 @@
+system	temp	Sym_cm2
+Arduino	30	1360051.202
+Arduino	34	1379497.104
+Arduino	36	807137.8222
+Arduino	39	676926.8902
+Inkbird	30	1541182.246
+Inkbird	34	1662063.951
+Inkbird	36	549500
+Inkbird	39	835620.1027
